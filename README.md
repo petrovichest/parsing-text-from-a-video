@@ -1,4 +1,4 @@
-# parsing-text-from-a-video
+# recognize-text-from-a-video
 
 This program creates a video storyboard and recognizes the text on each of the video frames.
 For correct operation, you need to install tesseract, it is located here - [https://github.com/UB-Mannheim/tesseract/wiki][https://github.com/UB-Mannheim/tesseract/wiki]
